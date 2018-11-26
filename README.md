@@ -1,4 +1,4 @@
-# Pivoral Cloud Foundry ワークショップ
+# Pivotal Cloud Foundry ワークショップ
 
 ## 概要
 
