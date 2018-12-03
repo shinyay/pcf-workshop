@@ -12,4 +12,4 @@
 4. [Pivotal Cloud Foundry Metrics による アプリケーション診断](https://github.com/shinyay/pcf-workshop-metrics)
 5. [New Relic APM 連携によるモニタリング](https://github.com/shinyay/pcf-workshop-apm-newrelic)
 6. [Concourse による継続的デリバリ](https://github.com/shinyay/pcf-workshop-concourse/blob/master/README.md)
-7. [アンケート](https://docs.google.com/forms/d/1TSe3CsOGm2oFNVMxWv8ioRN-cmdKhbFFuDzcTi83-sY/edit?usp=sharing_eil&ts=5bfbb90d)
+7. [アンケート](https://docs.google.com/forms/d/e/1FAIpQLSdXYptS-hk7scnfyM7-xt6-FhS6Ea3y25m-vUynU5GSEP43bg/viewform)
